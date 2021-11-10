@@ -1,0 +1,5 @@
+enter username:
+(Bob) enter transaction:
+enter new username:
+ERROR: That username is already is use!
+(Bob) enter transaction:

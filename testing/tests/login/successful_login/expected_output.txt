@@ -1,0 +1,4 @@
+enter username:
+(Bob) enter transaction:
+logout successful
+enter transaction:

@@ -1,0 +1,6 @@
+enter transaction:
+enter username:
+(Marry Sue) enter transaction:
+failed: must be admin to delete a user
+(Marry Sue) enter transaction:
+enter transaction:

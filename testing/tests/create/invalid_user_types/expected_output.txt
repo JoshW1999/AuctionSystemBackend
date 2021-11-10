@@ -1,0 +1,8 @@
+enter transaction:
+enter username:
+(Bob) enter transaction:
+Enter the username of the new user:
+Enter the user's type:
+Invalid Usertype.
+(Bob) enter transaction:
+enter transaction:
